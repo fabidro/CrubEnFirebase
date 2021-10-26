@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375745931979",
+    "firebase_url": "https://crub-33a80-default-rtdb.firebaseio.com",
+    "project_id": "crub-33a80",
+    "storage_bucket": "crub-33a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375745931979:android:060da54a96ca83213b894e",
+        "android_client_info": {
+          "package_name": "com.example.crubenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375745931979-7jhovh2cs6ava6cnl1fjsj6988bnesee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0rAMaQcgPhbBF44Pb4y-bVAMv6hESfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375745931979-7jhovh2cs6ava6cnl1fjsj6988bnesee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

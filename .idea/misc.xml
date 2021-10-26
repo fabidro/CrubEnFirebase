@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/universidad/Decimo semestre/Programacion Movil/Corte 3/CrubEnFirebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.109375" />
+        <entry key="..\:/universidad/Decimo semestre/Programacion Movil/Corte 3/CrubEnFirebase/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.21510416666666668" />
+        <entry key="..\:/universidad/Decimo semestre/Programacion Movil/Corte 3/CrubEnFirebase/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/universidad/Decimo semestre/Programacion Movil/Corte 3/CrubEnFirebase/app/src/main/res/menu/menu_main.xml" value="0.2727272668160684" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
